@@ -1,5 +1,5 @@
 import React from 'react';
-import Terminal from '../../components/dp/terminal';
+import Terminal from '../../components/terminal';
 
 function Skills() {
 

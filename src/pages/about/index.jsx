@@ -1,5 +1,5 @@
 import React from 'react';
-import Terminal from '../../components/dp/terminal';
+import Terminal from '../../components/terminal';
 
 function About() {
     const messages = [
@@ -13,7 +13,7 @@ function About() {
         <>
             <Terminal name="cameron@upson.me" messages={messages} />
             <div className='text-center text-bold text-xl py-10 w-min-content text-white'>
-                This website was created with ReactJS and tailwind css, view on <a href='http://github.com/CameronUpson/' className='text-emerald-200'>GITHUB</a>
+                This website was created with ReactJS and tailwind css, view on <a href='https://github.com/CameronUpson/PersonalWebsite' className='text-emerald-200'>GITHUB</a>
             </div>
         </>
     )

@@ -1,5 +1,5 @@
 import React from 'react';
-import Terminal from '../../components/dp/terminal';
+import Terminal from '../../components/terminal';
 
 import RSPeerPic from '../../images/rspeer.png';
 import DeobPic from '../../images/deob.png';
